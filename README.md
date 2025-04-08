@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://discord.com/users/kaztr"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="www.linkedin.com/in/omar-fares820214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="www.linkedin.com/in/omar-fares820214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/OmarFar57079297"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
 </div>
 
