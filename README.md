@@ -33,12 +33,8 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Fares13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Fares13&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Fares13&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xAstar.png" alt="Your Image Badge" />
 </div>
 
 ---
